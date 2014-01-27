@@ -1,5 +1,5 @@
-(module 2525CZ (layer F.Cu)
-  (fp_text reference 2525CZ (at 0 -4.064) (layer F.SilkS)
+(module 2525cz (layer F.Cu)
+  (fp_text reference 2525cz (at 0 -4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.18)))
   )
   (fp_text value VAL** (at 0 4.064) (layer F.SilkS)
