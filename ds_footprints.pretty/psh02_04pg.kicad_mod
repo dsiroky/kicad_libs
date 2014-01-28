@@ -16,7 +16,7 @@
   (pad 2 thru_hole oval (at -1.27 0) (size 1.6002 2.54) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 1.27 0) (size 1.6002 2.54) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 3.81 0) (size 1.6002 2.54) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model ds/psh_04pg.wrl
+  (model ds/psh02_04pg.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
