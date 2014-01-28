@@ -1,4 +1,4 @@
-(module SMA (layer F.Cu)
+(module sma (layer F.Cu)
   (fp_text reference SMA (at 0 -2.159) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.18)))
   )

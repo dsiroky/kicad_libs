@@ -1,4 +1,4 @@
-(module SO8E_ds (layer F.Cu)
+(module so8e (layer F.Cu)
   (descr "module CMS SOJ 8 pins etroit")
   (tags "CMS SOJ")
   (attr smd)

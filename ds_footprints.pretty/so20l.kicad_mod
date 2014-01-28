@@ -1,4 +1,4 @@
-(module SO20L_ds (layer F.Cu)
+(module so20l (layer F.Cu)
   (descr "Cms SOJ 20 pins large")
   (tags "CMS SOJ")
   (attr smd)
