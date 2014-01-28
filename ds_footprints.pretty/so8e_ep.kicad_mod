@@ -8,6 +8,8 @@
   (fp_text value VAL** (at 3.683 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.18)))
   )
+  (fp_line (start 1.27 1.016) (end 2.667 1.016) (layer F.SilkS) (width 0.18))
+  (fp_line (start -2.667 1.016) (end -1.27 1.016) (layer F.SilkS) (width 0.18))
   (fp_line (start -2.667 1.778) (end -2.667 1.905) (layer F.SilkS) (width 0.18))
   (fp_line (start -2.667 -2) (end -2.667 2) (layer F.SilkS) (width 0.18))
   (fp_line (start -2.667 -0.508) (end -2.159 -0.508) (layer F.SilkS) (width 0.18))
